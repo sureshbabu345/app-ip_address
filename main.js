@@ -83,7 +83,6 @@ class IpAddress {
     // For more information, consult the Log Class guide on the Itential
     // Developer Hub https://developer.itential.io/ located
     // under Documentation -> Developer Guides -> Log Class Guide
-    log.info('Starting the IpAddress product.');
   }
 
   getFirstIpAddress(cidrStr, callback) {
